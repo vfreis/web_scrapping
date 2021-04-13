@@ -34,7 +34,7 @@ async function init(url) {
 
     })
 
-    console.log('Info:', values)
+
 
 }
 
